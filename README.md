@@ -107,8 +107,9 @@ The game is interactive with the user, proceeds with user input. The game starts
 ###### Farah Naz
 
 1) Farah worked on the following classes: Unit, Player, Button, Collision, Score, ball and its children.
-
-2) Also contributed to the development of screens
+2) Assisted in design patterns and their implementations.
+3) Contributed on intergrating the code.
+4) Also contributed to the development of screens.
 
 ## No. Of Hours
 
